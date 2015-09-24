@@ -1,0 +1,2 @@
+<!DOCTYPE html><html><head><title></title><link rel="stylesheet" href="css/main.css"><script src="http://localhost:48626/takana.js"></script><script>takanaClient.run({host: 'localhost:48626'});
+</script><body><p>test</p></body></head></html>
